@@ -48,4 +48,15 @@ Through the EDA, I aim to provide insight into the performance of the client's c
 
 From the Power BI dashboard analysis made, below are the insights gathered:
 
-**1. Business Model;** 
+**1. Credit Card Operations:  ;** 
+
+Bank ZECH as a credit line business that consist of three major products offerings (Silver, Gold, and Platinum cards). The Gold card holders contribute the most to revenue (as depicted by their spend below) and their spend has increased Y-OY. While the silver card holders have the least spend and they tend to repay earlier. See dashboard summary below.
+
+*Chart I*
+---
+![Summary page](https://github.com/user-attachments/assets/e0e1bd1d-61e0-45fa-9b49-6822ee17f573)
+
+*Chart II*
+---
+
+
