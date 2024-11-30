@@ -48,15 +48,38 @@ Through the EDA, I aim to provide insight into the performance of the client's c
 
 From the Power BI dashboard analysis made, below are the insights gathered:
 
-**1. Credit Card Operations:  ;** 
+**1. Credit Card Operations;** 
 
 Bank ZECH as a credit line business that consist of three major products offerings (Silver, Gold, and Platinum cards). The Gold card holders contribute the most to revenue (as depicted by their spend below) and their spend has increased Y-OY. While the silver card holders have the least spend and they tend to repay earlier. See dashboard summary below.
 
 *Chart I*
 ---
+## *Summary Page*
 ![Summary page](https://github.com/user-attachments/assets/e0e1bd1d-61e0-45fa-9b49-6822ee17f573)
+
+*Chart Ia*
+---
+## *Gold Card*
+![Gold card](https://github.com/user-attachments/assets/dafefefa-48f6-481e-9062-876c7b00c8f6)
+
+*Chart Ib*
+---
+## *Platinum Card*
+![Platinum card](https://github.com/user-attachments/assets/7856c4db-18a3-4fab-89ea-3d322968238e)
+
+*Chart Ic*
+---
+## *Silver Card*
+![Silver Card](https://github.com/user-attachments/assets/79313448-8d91-40fd-8f8b-ba2a8827867e)
+
+**2. Customer Base/Spread;** 
+
+Only 100 customers are subscribed to the banks credit facility from 2004 to 2005 and all has been using same card for this period and their usage as increased year-on-year.
+The Gold card holders are 38, platinum card holds are 30 while silver card holders are 30. 
+
+The bank credit card holders are majorly in eight cities in India (Bangalore, Bombay, Calcutta, Chennai, Cochin, Delhi, Patna and, Trivandrum). Cochin as the most customers (20), followed by Bangalore (19), while Delhi, Patna and Trivandrum all have the least with just seven customers each. While Cochin as the most customers Bangalore contributes most to revenue (although, it was overtaken by Cochin in 2006 value) while Patna contribute the least (Patna contributed more than Trivandrum in 2004, but Trivandrum revenue leaped in 2005 and 2006). See *chart II* below.
 
 *Chart II*
 ---
-
-
+## *Geographic Spread*
+![Geographic spraed](https://github.com/user-attachments/assets/a67ac6ef-2c73-41f4-9b11-db0021e1612f)
