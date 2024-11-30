@@ -1,4 +1,4 @@
-# CAPSTONE PROJECT:  ZECH BANK CREDIT CARD ANALYSIS
+# CAPSTONE PROJECT: BANK ZECH INIA CREDIT CARD ANALYSIS
 ---
 ## Table of Content
 ---
@@ -14,7 +14,7 @@
  
 ### Project Overview
 ---
-ZECH bank is a small community bank located in Indian, the bank as engaged our services to help understand the performance of its credit card bussiness line based on its performance in the last three years (2004-2006),
+Bank ZECH is a small community bank located in Indian, the bank as engaged our services to help understand the performance of its credit card bussiness line based on its performance in the last three years (2004-2006),
 to help the board make decision to sell or keep this bussiness line. In order to visualise the business operations I created a Power BI dashboard.
 
 ### Data Source
@@ -31,9 +31,9 @@ The data was gotten from Kagles. Click [here](https://storage.googleapis.com/kag
 
 ### Exploratory Data Analysis
 ---
-In this EDA we would be trying to analyze the data gotten from Kaggle to get an insight into ZECH bank credit facility operations and performance across India. Hence, we would be answering questions like;
+In this EDA we would be trying to analyze the data gotten from Kaggle to get an insight into Bank ZECH India credit facility operations and performance across India. Hence, we would be answering questions like;
 1.  What are the credit card products offered by ZECH and which contributes the most to its revenue?
-2.	What is ZECH customer base accross the country?
+2.	What is Bank ZECH customer base accross the country?
 3.	What is the spend and repayment pattern of its customers?
 4.	How has the business been performing from 2004 to 205?
 5.	Which age group and employment segment contributes the most to revenue?
@@ -44,13 +44,8 @@ In this EDA we would be trying to analyze the data gotten from Kaggle to get an 
 
 ### Data Analysis
 ---
-Through the data analysis, I aim to provide insight into the sales performance of the client's business in 2014 and 2015, identify trends/patterns and make data-driven recommendations to help improve the top line of the business.
+Through the EDA, I aim to provide insight into the performance of the client's credit card business between 2004 and 2005, identify trends/patterns and make data-driven recommendations to help the board make data-informed decision on its next best course of action.
 
-From the data analysis below are the insights gathered:
+From the Power BI dashboard analysis made, below are the insights gathered:
 
-**1. Business Model;** The business operates in all six regions of the country and has the most markets and stores in the North-East (8 and 39 respectively) and the least in the North-Central (2 and 8 respectively) as depicted in *Chart I*. 
-
-The business operates four lines of business (printer sale, copier sale, Parts, and Service Plan) across all its stores with the Service plan contributing the bust to revenue year-on-year (see *chart II*). The business operates on all days of the year but 94% of its sales are made during workdays as illustr
- 
-
-
+**1. Business Model;** 
